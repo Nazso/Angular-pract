@@ -10,3 +10,6 @@
 
 ## 2. Backend implementation
 - under development!
+- Node.js
+- Hapi
+- Boom
