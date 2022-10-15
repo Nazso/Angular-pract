@@ -1,5 +1,5 @@
 # Angular-pract
-- Practice to build apllication with Angular
+- Practice to build aplication with Angular
 
 # Create an application covered by Linkedin tutorial
 
